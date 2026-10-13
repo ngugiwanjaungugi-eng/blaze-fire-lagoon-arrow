@@ -1,0 +1,38 @@
+{
+  "url": "http://127.0.0.1:8081/",
+  "viewports": {
+    "desktop": {
+      "width": 1280,
+      "height": 800,
+      "status": 200,
+      "title": "Pstyles — DJ & entertainment house",
+      "hasCanvas": false,
+      "bodyTextLen": 3283,
+      "bodyTextHash": "3ef643f25c53fb71ec47c726078d5684095dab3ee860094d4ad3a6ca31924e5f",
+      "bodyTextPrefix": "Pstyles Work Services The house Book a date ENTERTAINMENT HOUSE ",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built.png"
+    },
+    "mobile": {
+      "width": 390,
+      "height": 844,
+      "status": 200,
+      "title": "Pstyles — DJ & entertainment house",
+      "hasCanvas": false,
+      "bodyTextLen": 3269,
+      "bodyTextHash": "ba4839e19ba8161f5a9cefe42100ea26298fc0aef06ee9960bcf20c15764681e",
+      "bodyTextPrefix": "Pstyles Book a date Open menu ENTERTAINMENT HOUSE · TO THE WORLD",
+      "horizontalOverflow": false,
+      "consoleErrors": [],
+      "pageErrors": [],
+      "screenshot": "/workspace/screenshots/app-builder-built-mobile.png"
+    }
+  },
+  "brandWarnings": [],
+  "authWarnings": [],
+  "verdictFile": "/workspace/screenshots/app-builder-built.json",
+  "divergesFromBaseline": false,
+  "baselineReasons": []
+}
